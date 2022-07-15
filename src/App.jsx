@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>iFrame test</h1>
-      <iframe src="http://localhost:9000/"></iframe>
+      <iframe src="https://moonlit-eclair-288f48.netlify.app/"></iframe>
     </div>
   )
 }
